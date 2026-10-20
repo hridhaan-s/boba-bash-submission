@@ -2,20 +2,14 @@
 
 My astrophotography, one find per card. Object, date and a line about the night.
 
-Built for Boba Bash Greater Noida. Plain HTML, CSS and a tiny bit of JS. No frameworks.
-
-## Run it
-
-Open `index.html` in a browser, or:
-
-```
-python3 -m http.server
-```
+Built for my ticket to Boba Bash Greater Noida :) 
 
 ## Gear
 
 Kson 120mm telescope, 1100mm focal length.
 
 ## Made by
+
+All the images and assets in the project are mine except a few svg i got from https://www.svgrepo.com/
 
 [Hridhaan Sahay](https://hridhaan.me)
